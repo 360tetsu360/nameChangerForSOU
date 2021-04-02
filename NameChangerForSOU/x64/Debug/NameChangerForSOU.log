@@ -1,0 +1,5 @@
+﻿  dllmain.cpp
+C:\Users\kasum\source\repos\NameChangerForSOU\NameChangerForSOU\dllmain.cpp(9,38): warning C4267: '初期化中': 'size_t' から 'int' に変換しました。データが失われているかもしれません。
+C:\Users\kasum\source\repos\NameChangerForSOU\NameChangerForSOU\dllmain.cpp(19,45): warning C4267: '=': 'size_t' から 'int' に変換しました。データが失われているかもしれません。
+C:\Users\kasum\source\repos\NameChangerForSOU\NameChangerForSOU\dllmain.cpp(22,30): warning C4267: '=': 'size_t' から 'int' に変換しました。データが失われているかもしれません。
+  NameChangerForSOU.vcxproj -> C:\Users\kasum\source\repos\NameChangerForSOU\x64\Debug\NameChangerForSOU.dll

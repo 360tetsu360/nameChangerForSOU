@@ -1,0 +1,12 @@
+﻿  dllmain.cpp
+C:\Users\kasum\source\repos\NameChangerForSOU\NameChangerForSOU\dllmain.cpp(9,38): warning C4267: '初期化中': 'size_t' から 'int' に変換しました。データが失われているかもしれません。
+C:\Users\kasum\source\repos\NameChangerForSOU\NameChangerForSOU\dllmain.cpp(19,45): warning C4267: '=': 'size_t' から 'int' に変換しました。データが失われているかもしれません。
+C:\Users\kasum\source\repos\NameChangerForSOU\NameChangerForSOU\dllmain.cpp(22,30): warning C4267: '=': 'size_t' から 'int' に変換しました。データが失われているかもしれません。
+  Hooks.cpp
+  Memory.cpp
+C:\Users\kasum\source\repos\NameChangerForSOU\NameChangerForSOU\Memory.cpp(6,18): warning C4244: '初期化中': 'uintptr_t' から 'DWORD' への変換です。データが失われる可能性があります。
+  コード生成しています。
+  Previous IPDB not found, fall back to full compilation.
+  All 324 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  コード生成が終了しました。
+  NameChangerForSOU.vcxproj -> C:\Users\kasum\source\repos\NameChangerForSOU\x64\Release\NameChangerForSOU.dll
