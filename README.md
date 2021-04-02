@@ -4,7 +4,8 @@
 
 1.インジェクトの仕方
   - [FateInjector](https://github.com/fligger/FateInjector/releases/latest/download/FateInjector.exe)インジェクターをダウンロードします。もうすでにある人は無視していいです。
-  - [NameChangerForSOU.dll](../NameChangerForSOU.zip)をダウンロードしてください。
+  - [NameChangerForSOU.zip](./NameChangerForSOU.zip)をダウンロードしてください。
+  - ダウンロードしたら展開してください
   - Minecraftを起動します。起動してからメニューが見えるまで待ってください。
   - FateInjectorを起動します。起動したらSelectというところから、NameChangerForSOU.dllを選択してください。
   - FateInjectorのInjectというボタンを押したらインジェクト完了です
